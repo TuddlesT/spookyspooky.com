@@ -2,4 +2,4 @@
 # the following line to use 'https'
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'github-pages'
