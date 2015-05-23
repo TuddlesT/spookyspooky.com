@@ -4,10 +4,10 @@ header-img: img/home-bg.jpg
 email: accounts@spookyspooky.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
+url: "http:/spookyspooky.com"
+twitter_username:
 github_username:  TuddlesT
-facebook_username:  IronSummitMedia
+facebook_username:
 
 # Build settings
 markdown: kramdown
