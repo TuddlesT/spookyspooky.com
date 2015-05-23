@@ -1,2 +1,2 @@
 # spookyspooky.com
-My gaming blog
+My gaming blog!
